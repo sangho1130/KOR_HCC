@@ -1,0 +1,123 @@
+Sample	Grade	Tregs	AbsoluteScore	op	pretx	site	ImmuneCluster
+Cat_N001	Normal	0	0.527539792	Not applicable	Not applicable	Normal	None
+Cat_N002	Normal	0	0.400411353	Not applicable	Not applicable	Normal	None
+Cat_N003	Normal	0	0.553434525	Not applicable	Not applicable	Normal	None
+Cat_N004	Normal	0	0.681845021	Not applicable	Not applicable	Normal	None
+Cat_N005	Normal	0	0.756492128	Not applicable	Not applicable	Normal	None
+Cat_N006	Normal	0.00103408	0.510677024	Not applicable	Not applicable	Normal	None
+Cat_N007	Normal	0	0.525038292	Not applicable	Not applicable	Normal	None
+Cat_N011	Normal	0	0.462115909	Not applicable	Not applicable	Normal	None
+Cat_N012	Normal	0	0.673180091	Not applicable	Not applicable	Normal	None
+Cat_N014	Normal	0	0.789647044	Not applicable	Not applicable	Normal	None
+Cat_N015	Normal	0	0.533409577	Not applicable	Not applicable	Normal	None
+Cat_N016	Normal	0	0.429037579	Not applicable	Not applicable	Normal	None
+Cat_N017	Normal	0	0.731143072	Not applicable	Not applicable	Normal	None
+Cat_N018	Normal	0	0.640778954	Not applicable	Not applicable	Normal	None
+Cat_TG1-003	T2	0	0.414649086	Total_hepatectomy	Yes	Tumor	None
+Cat_TG1-004	T1	0	0.303238032	Partial_hepatectomy	No	Tumor	None
+Cat_TG1-005	T2	0.003800416	0.491664729	Total_hepatectomy	Yes	Tumor	C2
+Cat_TG1-007	T2	0	0.564905529	Total_hepatectomy	No	Tumor	None
+Cat_TG1-009	T1	0	0.571788657	Total_hepatectomy	No	Tumor	None
+Cat_TG1-012	T2	0	0.631566563	Total_hepatectomy	Yes	Tumor	None
+Cat_TG1-013	T1	0.004054468	0.784045974	Total_hepatectomy	No	Tumor	None
+Cat_TG1-021	T2	0	0.761320774	Total_hepatectomy	Yes	Tumor	None
+Cat_TG1-023	T3-4	0	0.377221519	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-001	T2	0	0.299653558	Total_hepatectomy	No	Tumor	None
+Cat_TG2-002	T1	0	0.394507361	Total_hepatectomy	No	Tumor	None
+Cat_TG2-004	T2	0.010847516	0.306377437	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-005	T2	0	0.881750805	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-006	T3-4	0	0.862821832	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-008	T1	0	0.420957035	Total_hepatectomy	No	Tumor	None
+Cat_TG2-010	T2	0.001565381	0.503414198	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-012	T1	0	0.433877233	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-013	T3-4	0.001945869	0.354879145	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-014	T1	0	0.368170351	Total_hepatectomy	No	Tumor	None
+Cat_TG2-019	T2	0	0.765394595	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-022	T2	0.003995001	0.301575284	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-023	T3-4	0.004487323	0.12505914	Total_hepatectomy	Yes	Tumor	None
+Cat_TG2-025	T1	0	0.25192383	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-026	T1	0	0.645499791	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-028	T3-4	0	0.308392734	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-029	T3-4	0	0.191687012	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-030	T2	0	0.173677683	Total_hepatectomy	No	Tumor	None
+Cat_TG2-032	T1	0	0.434446539	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-033	T3-4	0	0.824935299	Total_hepatectomy	NA	Tumor	None
+Cat_TG2-034	T2	0	0.257003521	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-036	T2	0.007167945	0.260370092	Partial_hepatectomy	NA	Tumor	None
+Cat_TG2-037	T3-4	0.030403044	0.188250044	Partial_hepatectomy	No	Tumor	None
+Cat_TG2-038	T2	0.005532683	0.297897855	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-001	T2	0.005437596	0.254954352	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-002	T2	0	0.337786239	Total_hepatectomy	No	Tumor	C1
+Cat_TG3-003	T2	0	0.477287649	Not applicable	Not applicable	Tumor	None
+Cat_TG3-004	T2	0	0.557051386	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-005	T1	0	0.341426255	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-006	T1	0	0.755453773	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-007	T2	0	0.308381324	Total_hepatectomy	No	Tumor	None
+Cat_TG3-008	T2	0.006437482	0.63751655	Not applicable	Not applicable	Tumor	None
+Cat_TG3-009	T1	0	0.3183925	Total_hepatectomy	No	Tumor	None
+Cat_TG3-010	T1	0.008072356	0.18205144	Total_hepatectomy	No	Tumor	None
+Cat_TG3-012	T3-4	0.007242715	0.158006163	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-013	T2	0	0.27959702	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-015	T2	0	0.488242115	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-016	T2	0.002097338	0.275575674	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-019	T2	0	0.233838473	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-020	T3-4	9e-04	0.506733808	Total_hepatectomy	Yes	Tumor	None
+Cat_TG3-021	T1	0	0.218791852	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-023	T3-4	0	0.344947807	Partial_hepatectomy	No	Tumor	None
+Cat_TG3-024	T1	0	0.246999262	Partial_hepatectomy	No	Tumor	None
+Cat_HPC-001	Mixed	0	0.182539066	Not applicable	Not applicable	Tumor	None
+Cat_HPC-002	Mixed	0	0.170449083	Partial_hepatectomy	No	Tumor	None
+Cat_HPC-004	Mixed	0	0.45607784	Not applicable	Not applicable	Tumor	C1
+Cat_HPC-005	Mixed	0	0.974965687	Not applicable	Not applicable	Tumor	C1
+Cat_HPC-006	Mixed	0.006970408	0.232596852	Not applicable	Not applicable	Tumor	C1
+Cat_DH003	DN	0.0075354	0.380612331	Not applicable	Not applicable	DN	C1
+Cat_DH004	DN	0	0.724891152	Not applicable	Not applicable	DN	C2
+Cat_DH008	DN	0.007282398	0.339622462	Not applicable	Not applicable	DN	C2
+Cat_DH009	DN	9e-04	0.430360357	Not applicable	Not applicable	DN	C2
+Cat_DH010	DN	0	0.531138347	Not applicable	Not applicable	DN	C1
+Cat_DH011	DN	0	0.342012773	Not applicable	Not applicable	DN	C2
+Cat_DH013	DN	0	0.523802369	Total_hepatectomy	Yes	DN	C1
+Cat_N013r	Normal	0	0.539042673	Not applicable	Not applicable	Normal	C1
+Cat_TG1-017r	T2	4e-04	0.458828258	Total_hepatectomy	Yes	Tumor	C1
+Cat_TG2-035r	T2	0	0.541599174	Total_hepatectomy	No	Tumor	C1
+Cat_HPC-003r	Mixed	0	0.261705385	Not applicable	Not applicable	Tumor	C2
+Cat_FL001	FibCS	0	0.801531365	Not applicable	Not applicable	FibCS	C2
+Cat_FL002	FibCS	0	0.73556679	Not applicable	Not applicable	FibCS	C1
+Cat_FL003	FibCS	0	0.941230695	Not applicable	Not applicable	FibCS	C2
+Cat_FL004	FibCS	0	0.726684999	Not applicable	Not applicable	FibCS	C1
+Cat_FL007	FibCS	0	0.77121004	Not applicable	Not applicable	FibCS	C1
+Cat_FL008	FibCS	0	0.616992566	Not applicable	Not applicable	FibCS	C1
+Cat_FL010	FibCS	0	0.897790643	Not applicable	Not applicable	FibCS	C2
+Cat_FL012	FibCS	0	0.692145358	Not applicable	Not applicable	FibCS	C1
+Cat_FL013	FibCS	0	0.9012975	Not applicable	Not applicable	FibCS	C1
+Cat_FL014	FibCS	0	0.989726181	Not applicable	Not applicable	FibCS	C1
+Cat_FH002	FibCS	0	0.612872815	Not applicable	Not applicable	FibCS	C2
+Cat_FH005	FibCS	0	0.783066543	Not applicable	Not applicable	FibCS	C1
+Cat_FH007	FibCS	0	0.979236233	Not applicable	Not applicable	FibCS	C1
+Cat_FH008	FibCS	0	0.791911668	Not applicable	Not applicable	FibCS	C1
+Cat_FH009	FibCS	0	0.739959349	Not applicable	Not applicable	FibCS	C1
+Cat_FH010	FibCS	0	0.929705381	Not applicable	Not applicable	FibCS	C2
+Cat_FH014	FibCS	0	1.186798122	Not applicable	Not applicable	FibCS	C1
+Cat_FH016	FibCS	0	1.162896837	Not applicable	Not applicable	FibCS	C2
+Cat_FH017	FibCS	0	0.735772523	Not applicable	Not applicable	FibCS	C1
+Cat_FH018	FibCS	0	0.700512562	Not applicable	Not applicable	FibCS	C1
+Cat_CS002	FibCS	0	0.918618677	Not applicable	Not applicable	FibCS	C1
+Cat_CS010	FibCS	0	1.083757508	Not applicable	Not applicable	FibCS	C1
+Cat_CS016	FibCS	0	1.009185642	Not applicable	Not applicable	FibCS	C1
+Cat_CS017	FibCS	0	0.612195565	Not applicable	Not applicable	FibCS	None
+Cat_CS019	FibCS	0	0.802571019	Not applicable	Not applicable	FibCS	C2
+Cat_CS022	FibCS	0	1.054030675	Not applicable	Not applicable	FibCS	C1
+Cat_CS028	FibCS	0.002752457	0.354741951	Not applicable	Not applicable	FibCS	C2
+Cat_CS029	FibCS	0	0.942812571	Not applicable	Not applicable	FibCS	C1
+Cat_CS038	FibCS	0	0.830945701	Not applicable	Not applicable	FibCS	None
+Cat_CS039	FibCS	0	0.986764152	Not applicable	Not applicable	FibCS	C1
+Cat_DL002	DN	0	0.946853492	Not applicable	Not applicable	DN	C1
+Cat_DL011	DN	0	0.52798337	Not applicable	Not applicable	DN	C1
+Cat_DL016	DN	0	0.781629106	Not applicable	Not applicable	DN	C1
+Cat_DL019	DN	0	0.852227165	Not applicable	Not applicable	DN	C2
+Cat_DL020	DN	0	0.576099957	Not applicable	Not applicable	DN	C1
+Cat_DL021	DN	0.014747641	0.61436697	Not applicable	Not applicable	DN	C1
+Cat_DL023	DN	6e-04	0.551916837	Not applicable	Not applicable	DN	C1
+Cat_DL024	DN	0.008321897	0.609419517	Not applicable	Not applicable	DN	C1
+Cat_DL025	DN	0.005880892	0.383316017	Not applicable	Not applicable	DN	C1
+Cat_DL026	DN	0	0.746602385	Not applicable	Not applicable	DN	C1

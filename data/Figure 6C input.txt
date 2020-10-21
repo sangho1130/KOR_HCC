@@ -1,0 +1,23 @@
+Celltype	abs_pval	abs_padj	rela_pval	rela_padj
+B cells naive	NA	NA	NA	NA
+B cells memory	NA	NA	NA	NA
+Plasma cells	NA	NA	NA	NA
+CD8	NA	NA	NA	NA
+CD4 naive	NA	NA	NA	NA
+CD4 MemRest	0.007016426	0.077180687	NA	NA
+CD4 MemAct	NA	NA	NA	NA
+Tfh	NA	NA	NA	NA
+Tregs	-0.002543965	-0.055967232	-0.00067977	-0.01495493
+Tgd	0.078271345	NA	0.078271345	NA
+NK resting	NA	NA	NA	NA
+NK activated	NA	NA	NA	NA
+Monocytes	0.078271345	NA	NA	NA
+Macrophages M0	NA	NA	NA	NA
+Macrophages M1	NA	NA	NA	NA
+Macrophages M2	NA	NA	NA	NA
+DC resting	NA	NA	NA	NA
+DC activated	NA	NA	NA	NA
+MC resting	NA	NA	NA	NA
+MC activated	NA	NA	NA	NA
+Eosinophils	NA	NA	NA	NA
+Neutrophils	NA	NA	NA	NA
